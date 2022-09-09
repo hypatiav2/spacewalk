@@ -1,5 +1,4 @@
 var planetlist = [];
-
 var audio = new Audio('spacemusic.mp3');
 audio.play();
 
